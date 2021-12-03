@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Andrés! Welcome to my little home here in Github. 
+I'm Andrés! Welcome to my little home here on Github. 
 
 - 🔭 I’m currently working on Graphite as a Data / Backend engineer.
 - :computer: My main programming language at the moment is Python; I also enjoy Haskell, Typescript and Dart (with Flutter).
