@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm Andrés! Welcome to my little home here on Github. 
 
-- 🔭 I’m currently working at [Graphite](https://graphitehq.com) as a Staff Data / Backend Engineer.
-- :computer: My main programming language at the moment is Python; I also enjoy Haskell, Typescript and Dart (with Flutter).
+- 🔭 I’m currently working at [Microsoft Vancouver](https://blogs.microsoft.com/vancouver/) as a Software Engineer.
+- :computer: My main (personal) programming language at the moment is Python; I also enjoy Haskell, Typescript, C# and Dart (with Flutter).
 - 🌱 My main side-project right now is a [client for Mastodon built in Flutter](https://github.com/feathr-space/feathr).
 - 💬 Some interests: artificial intelligence, natural language processing, federated social networks, compilers and much more!
 - 👯 I’m looking to collaborate on interesting open-source projects!
