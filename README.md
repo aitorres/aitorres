@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Andrés! Welcome to my little home here on Github. 
 
-- 🔭 I’m currently working at [Microsoft Vancouver](https://blogs.microsoft.com/vancouver/) as a Software Engineer.
+- 🔭 I’m currently working at [Microsoft Vancouver](https://blogs.microsoft.com/vancouver/) as a Software Engineer II.
 - :computer: My main (personal) programming language at the moment is Python; I also enjoy Haskell, Typescript, C# and Dart (with Flutter).
 - 🌱 My main side-projects right now are [a cross-posting tool for social media (Bluesky, Mastodon, etc) built in Python](https://github.com/aitorres/barkr) and a [client for Mastodon built in Flutter](https://github.com/feathr-space/feathr).
 - 💬 Some interests: machine learning, natural language processing, federated social networks, compilers and much more!
